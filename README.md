@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Jeremy!
+
+# I am a computer science major attending KSU.
+# I have a particular focus in AI, so I like to learn
+# about the breadth of AI algorithms that are out there.
 
 <!--
 **jkhopkins39/jkhopkins39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
