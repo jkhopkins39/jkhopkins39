@@ -1,10 +1,10 @@
-## Hi, I'm Jeremy!
+## Hi, I'm Jeremy! 🧨
 
 - I am a computer science major attending **KSU** (Kennesaw State University).
-- I have a particular focus in AI, so I like to learn about the breadth of AI algorithms that exist.
+- I have a particular focus in AI 🦾, so I like to learn about the breadth of AI algorithms that exist.
 - I love video games and computers, so my repositories are random.
 - I use Github as a host for school and personal projects alike.
-- Feel free to contact me _@jeremyyhop@gmail.com_ with ideas and projects I should check out!
+- Feel free to contact me _@jeremyyhop@gmail.com_ with ideas and projects I should check out! 👀
 
 ## 
 <!--
